@@ -1,5 +1,5 @@
-# Проект: Hotel
+# Проект: Sprivaten
 
 Сверстать сайт согласно макету:
 
-[Hotel Website Design: Figma](https://www.figma.com/file/5cwHNPXak6xoCku1Fhjc4U/Hotel-Website-Design)
+[Sprivaten Website Design: Figma](https://www.figma.com/file/eQGnOGNbEkoDBG1kDmYTZF/Sprivaten?node-id=964%3A5456)
