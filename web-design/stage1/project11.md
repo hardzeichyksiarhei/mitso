@@ -1,5 +1,5 @@
-# Проект: Litigade
+# Проект: Startup Landing Page
 
 Сверстать сайт согласно макету:
 
-[Litigade Website Design: Figma](https://www.figma.com/file/bPeGiYtmDHzSNf59hdwjDc/Litigade?node-id=964%3A5456)
+[Startup Landing Page Website Design: Figma](https://www.figma.com/file/09nsnopyewIaqjfUC7RJGL/Startup-Landing-Page?node-id=65%3A0)
