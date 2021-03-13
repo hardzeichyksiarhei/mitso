@@ -1,4 +1,4 @@
-# Проект: Startup Landing Page
+# Проект: Product Landing Page
 
 Сверстать сайт согласно макету:
 
